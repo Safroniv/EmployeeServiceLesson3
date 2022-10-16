@@ -5,14 +5,14 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memory", "Memory\Memory.csproj", "{0A7EEC74-AAF1-4E14-98E6-DC9898035B99}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeService", "EmployeeService\EmployeeService.csproj", "{F3602627-A7C9-4BA0-AE29-37AB73D43079}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeServiceLesson03", "EmployeeService\EmployeeServiceLesson03.csproj", "{F3602627-A7C9-4BA0-AE29-37AB73D43079}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C55D7DD2-1308-4467-95D1-6A247A282A76}"
 	ProjectSection(SolutionItems) = preProject
 		ef.readme.txt = ef.readme.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeService.Data", "EmployeeService.Data\EmployeeService.Data.csproj", "{E56B9A15-A5EB-4640-AF91-CC51AA1B53C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeServiceLesson3.Data", "EmployeeService.Data\EmployeeServiceLesson3.Data.csproj", "{E56B9A15-A5EB-4640-AF91-CC51AA1B53C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
